@@ -41,6 +41,9 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 ### Genetic SEM/Factor models
 
 - [GenomicSEM](https://github.com/GenomicSEM/GenomicSEM) R package for Genomic Structural Equation Models. user defined models of the relation between complex traits based on GWAS summary data.
+- [GUIDE](https://github.com/daniel-lazarev/GUIDE) Genetic Unmixing by Independent Decomposition (GUIDE), uses ICA to estimate statistically independent latent factors that best express the patterns of association across many traits.
+- [FactorGO](https://github.com/mancusolab/FactorGo) FactorGo is a scalable variational factor analysis model that learns pleiotropic factors using GWAS summary statistics!
+- [GNA](https://github.com/GenomicNetworkAnalysis/GNA) GNA is an R package for performing network analysis of genetic overlap derived from GWAS summary statistics
 
 
 ### two sample Mendelian randomisation
@@ -56,6 +59,11 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 ## Colocalisation of causal varianta 
 
 - [coloc](https://github.com/chr1swallace/coloc) R package to perform genetic colocalisation analysis, test whether two related phenotypes share common genetic causal variant(s) in a given region.
+- [fastENLOC](https://github.com/xqwen/fastenloc) This repository contains the software implementation of FastENLOC, which enables integrative genetic association analysis of molecular QTL data and GWAS data.
+
+## Find the causal gene
+
+- [FOCUS](https://github.com/mancusolab/ma-focus) FOCUS (Fine-mapping Of CaUsal gene Sets) is software to fine-map transcriptome-wide association study statistics at genomic risk regions
 
 
 
