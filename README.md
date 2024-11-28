@@ -14,11 +14,12 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores.
   
 
-### Univariate models (heritability/poligenicity/stratified etc)
+### Univariate models (heritability/poligenicity/stratified/geneset enrichment etc)
 
 - [i-LDSC](https://github.com/lcrawlab/i-LDSC)   interaction-LD score (i-LDSC) regression: Model an additional score that measures the amount of non-additive genetic variation that is tagged by each variant in the data.
 - [ACLR](https://github.com/arminschoech/ACLR) Autocorrelation LD regression: a tool to efficiently estimate the autocorrelation of latent effects in large genetic data sets. (WARNING Python 2.7 code)
 - [HAMSTA](https://github.com/tszfungc/hamsta) HAMSTA is a python package that estimate heritability explained by local ancestry using summary statistics from admixture mapping studies.
+- [MAGMA](https://cncr.nl/research/magma/) MAGMA: Generalized gene-set analysis of GWAS data. 
 
 
 ## Genetic correlation (LD score and derivatives)
