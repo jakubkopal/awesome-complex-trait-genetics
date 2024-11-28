@@ -11,7 +11,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 ## genetic architecture
 
-- [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores.
+- [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores. A [Python3 port](https://github.com/belowlab/ldsc) is available.
   
 
 ### Univariate models (heritability/poligenicity/stratified/geneset enrichment etc)
@@ -62,6 +62,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [FINEMAP](http://www.christianbenner.com) FINEMAP: Efficient variable selection using summary data from genome-wide association studies. 
 - [polyfun](https://github.com/omerwe/polyfun) Package contains **PolyFun** for functionally-informed fine-mapping, **PolyLoc** for polygenic localization of complex trait heritability.
 - [OPERA](https://github.com/wuyangf7/OPERA): (omics pleiotropic association) method tests combinatorial pleiotropic associations between multiple molecular phenotypes (eQTL, DNAm) with a complex trait using summary-level data.
+- [SuSiEx](https://github.com/getian107/SuSiEx): Cross-population finemapping using summary statistics and LD reference panels.
 
 ## gene-level analysis (TWAS)
 
