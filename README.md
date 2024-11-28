@@ -43,7 +43,6 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [GUIDE](https://github.com/daniel-lazarev/GUIDE) Genetic Unmixing by Independent Decomposition (GUIDE), uses ICA to estimate statistically independent latent factors that best express the patterns of association across many traits.
 - [FactorGO](https://github.com/mancusolab/FactorGo) FactorGo is a scalable variational factor analysis model that learns pleiotropic factors using GWAS summary statistics!
 - [GNA](https://github.com/GenomicNetworkAnalysis/GNA) GNA is an R package for performing network analysis of genetic overlap derived from GWAS summary statistics
-- [Gsens](https://github.com/LeonardFrach/Gsens): Genetically informed sensitivity analysis to estimate role of genetic confounding in phenotypic associations and for causal inference from observation data.
 
 
 ### Two sample Mendelian Randomisation
@@ -83,3 +82,9 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [ukbrapR](https://github.com/lcpilling/ukbrapR) ukbrapR (phonetically: 'U-K-B-wrapper') is an R package for working in the UK Biobank Research Analysis Platform (RAP). The aim is to make it quicker, easier, and more reproducible.
 - [MungeSumstats](https://github.com/Al-Murphy/MungeSumstats) R package designed to facilitate the standardisation of GWAS summary statistics.
 - [gwasRtools](https://github.com/lcpilling/gwasRtools) R package to (1) identify loci and independent lead SNPs (using online or local reference panel) and (2) annotate variants with nearest gene from GENCODE database.
+
+
+##RAW data/PRS based methods
+
+- [Gsens](https://github.com/LeonardFrach/Gsens): Genetically informed sensitivity analysis to estimate role of genetic confounding in phenotypic associations and for causal inference from observation data.
+
