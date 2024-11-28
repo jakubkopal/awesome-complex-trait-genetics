@@ -14,8 +14,8 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 **Sumstats based:**
 
 - [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores. A [Python3 port](https://github.com/belowlab/ldsc) is available.
-**
-Raw data based:**
+
+**Raw data based:**
 
 - [GCTA](https://yanglab.westlake.edu.cn/software/gcta/) GCTA (Genome-wide Complex Trait Analysis) is a software package initially developed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for a complex trait.
 
@@ -51,7 +51,7 @@ Raw data based:**
 - [FactorGO](https://github.com/mancusolab/FactorGo) FactorGo is a scalable variational factor analysis model that learns pleiotropic factors using GWAS summary statistics!
 - [GNA](https://github.com/GenomicNetworkAnalysis/GNA) GNA is an R package for performing network analysis of genetic overlap derived from GWAS summary statistics
 
-**raw data based:**
+**Raw data based:**
 
 - [Gsens](https://github.com/LeonardFrach/Gsens): Genetically informed sensitivity analysis to estimate role of genetic confounding in phenotypic associations and for causal inference from observation data.
 
