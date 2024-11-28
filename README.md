@@ -49,7 +49,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 - [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) An R package for performing Mendelian randomization using GWAS summary data.
 
-### Mendelian randomisation/Genetic arhitecture hybrids
+### MR/Genetic architecture hybrid models
 
 - [lhcMR](https://github.com/LizaDarrous/lhcMR) lhcMR is an R package that performs bi-directional causal estimation between a pair of traits, while accounting for the presence of a potential heritable confounder acting on the pair.
 - [CAUSE](https://github.com/jean997/cause) an MR method, Causal Analysis Using Summary Effect Estimates (CAUSE), that accounts for correlated and uncorrelated horizontal pleiotropic effects. 
