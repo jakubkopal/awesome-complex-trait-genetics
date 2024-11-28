@@ -11,6 +11,8 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 ## Pleiotropy/multivariate modeling
 
+- [genomicSEM](https://github.com/GenomicSEM/GenomicSEM) R package for genomic Structural equation models. user defied models for the relation between complex traits based on GWAS summary data.
+
 ## Menedlian ranomisation
 
 ## simulation
