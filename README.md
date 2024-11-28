@@ -52,7 +52,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 ### Mendelian randomisation/Genetic arhitecture hybrids
 
 - [lhcMR](https://github.com/LizaDarrous/lhcMR) lhcMR is an R package that performs bi-directional causal estimation between a pair of traits, while accounting for the presence of a potential heritable confounder acting on the pair.
-- [CAUSE](https://github.com/jean997/cause)
+- [CAUSE](https://github.com/jean997/cause) an MR method, Causal Analysis Using Summary Effect Estimates (CAUSE), that accounts for correlated and uncorrelated horizontal pleiotropic effects. 
 - [LCV](https://github.com/lukejoconnor/LCV) LCV is an LD score based method for inferring genetically causal relationships using GWAS data.
 
 ## Colocalisation of causal variants
