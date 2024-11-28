@@ -55,10 +55,12 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [CAUSE](https://github.com/jean997/cause) an MR method, Causal Analysis Using Summary Effect Estimates (CAUSE), that accounts for correlated and uncorrelated horizontal pleiotropic effects. 
 - [LCV](https://github.com/lukejoconnor/LCV) LCV is an LD score based method for inferring genetically causal relationships using GWAS data.
 
-## Colocalisation of causal variants
+## Colocalisation/finemapping of causal variants
 
 - [coloc](https://github.com/chr1swallace/coloc) R package to perform genetic colocalisation analysis, test whether two related phenotypes share common genetic causal variant(s) in a given region.
 - [fastENLOC](https://github.com/xqwen/fastenloc) This repository contains the software implementation of FastENLOC, which enables integrative genetic association analysis of molecular QTL data and GWAS data.
+- [FINEMAP](http://www.christianbenner.com) FINEMAP: Efficient variable selection using summary data from genome-wide association studies. 
+- [polyfun](https://github.com/omerwe/polyfun) Package contains **PolyFun** for functionally-informed fine-mapping, **PolyLoc** for polygenic localization of complex trait heritability.
 
 ## gene-level analysis (TWAS)
 
