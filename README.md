@@ -1,4 +1,4 @@
-# awesome-genetics
+# awesome-complex-trait-genetics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
