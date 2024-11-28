@@ -27,9 +27,6 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 - [HDL](https://github.com/zhenin/HDL) High-Definition Likelihood (HDL) is a likelihood-based method for estimating genetic correlation using GWAS summary statistics. Compared to LD Score regression (LDSC), It reduces the variance of a genetic correlation estimate by about 60%.
 
-
-
-
 ### Stratified/local genetic correlatons
 
 - [LAVA](https://github.com/josefin-werme/LAVA) LAVA (Local Analysis of [co]Variant Association) is a tool developed for local genetic correlation (rg) analysis.
@@ -63,14 +60,12 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [coloc](https://github.com/chr1swallace/coloc) R package to perform genetic colocalisation analysis, test whether two related phenotypes share common genetic causal variant(s) in a given region.
 - [fastENLOC](https://github.com/xqwen/fastenloc) This repository contains the software implementation of FastENLOC, which enables integrative genetic association analysis of molecular QTL data and GWAS data.
 
-## Find the causal gene
+## gene-level analysis (TWAS)
 
+- [FUSION](https://github.com/gusevlab/fusion_twas) FUSION is a suite of tools for performing transcriptome-wide and regulome-wide association studies (TWAS and RWAS). 
 - [FOCUS](https://github.com/mancusolab/ma-focus) FOCUS (Fine-mapping Of CaUsal gene Sets) is software to fine-map transcriptome-wide association study statistics at genomic risk regions
 
 
-
-
-##
 
 ## Simulation
 
