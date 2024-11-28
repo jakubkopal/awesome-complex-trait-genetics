@@ -76,3 +76,4 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [bigsnpr](https://github.com/privefl/bigsnpr) R package for the analysis of massive SNP arrays, primarily designed for human genetics.
 - [ukbrapR](https://github.com/lcpilling/ukbrapR) ukbrapR (phonetically: 'U-K-B-wrapper') is an R package for working in the UK Biobank Research Analysis Platform (RAP). The aim is to make it quicker, easier, and more reproducible.
 - [MungeSumstats](https://github.com/Al-Murphy/MungeSumstats) R package designed to facilitate the standardisation of GWAS summary statistics.
+- [gwasRtools](https://github.com/lcpilling/gwasRtools) R package to (1) identify loci and independent lead SNPs (using online or local reference panel) and (2) annotate variants with nearest gene from GENCODE database.
