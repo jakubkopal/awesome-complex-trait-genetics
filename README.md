@@ -47,13 +47,13 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 ### two sample Mendelian randomisation
 
--[TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) An R package for performing Mendelian randomization using GWAS summary data.
+- [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) An R package for performing Mendelian randomization using GWAS summary data.
 
 ### Mendelian randomisation/Genetic arhitecture hybrids
 
--[lhcMR](https://github.com/LizaDarrous/lhcMR) lhcMR is an R package that performs bi-directional causal estimation between a pair of traits, while accounting for the presence of a potential heritable confounder acting on the pair.
--[CAUSE](https://github.com/jean997/cause)
--[LCV](https://github.com/lukejoconnor/LCV) LCV is an LD score based method for inferring genetically causal relationships using GWAS data.
+- [lhcMR](https://github.com/LizaDarrous/lhcMR) lhcMR is an R package that performs bi-directional causal estimation between a pair of traits, while accounting for the presence of a potential heritable confounder acting on the pair.
+- [CAUSE](https://github.com/jean997/cause)
+- [LCV](https://github.com/lukejoconnor/LCV) LCV is an LD score based method for inferring genetically causal relationships using GWAS data.
 
 ## Colocalisation of causal varianta 
 
