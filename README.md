@@ -84,7 +84,8 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [gwasRtools](https://github.com/lcpilling/gwasRtools) R package to (1) identify loci and independent lead SNPs (using online or local reference panel) and (2) annotate variants with nearest gene from GENCODE database.
 
 
-##RAW data/PRS based methods
+## RAW data/PRS based methods
 
+- [GCTA](https://yanglab.westlake.edu.cn/software/gcta/) GCTA (Genome-wide Complex Trait Analysis) is a software package initially developed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for a complex trait.
 - [Gsens](https://github.com/LeonardFrach/Gsens): Genetically informed sensitivity analysis to estimate role of genetic confounding in phenotypic associations and for causal inference from observation data.
 
