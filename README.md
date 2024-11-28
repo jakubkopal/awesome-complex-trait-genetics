@@ -73,6 +73,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 ## Genomic data wrangling
 
+- [HAIL](https://github.com/hail-is/hail) Hail is an open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data.
 - [bigsnpr](https://github.com/privefl/bigsnpr) R package for the analysis of massive SNP arrays, primarily designed for human genetics.
 - [ukbrapR](https://github.com/lcpilling/ukbrapR) ukbrapR (phonetically: 'U-K-B-wrapper') is an R package for working in the UK Biobank Research Analysis Platform (RAP). The aim is to make it quicker, easier, and more reproducible.
 - [MungeSumstats](https://github.com/Al-Murphy/MungeSumstats) R package designed to facilitate the standardisation of GWAS summary statistics.
