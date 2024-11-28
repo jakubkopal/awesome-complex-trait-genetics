@@ -11,7 +11,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 
 ## genetic architecture
 
-- [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores.
+- [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores. A [Python3 port](https://github.com/belowlab/ldsc) is available.
   
 
 ### Univariate models (heritability/poligenicity/stratified/geneset enrichment etc)
