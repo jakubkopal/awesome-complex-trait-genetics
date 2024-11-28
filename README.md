@@ -14,7 +14,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 **Sumstats based:**
 
 - [LDSC](https://github.com/bulik/ldsc) ldsc is a python command line tool for estimating heritability and genetic correlation from GWAS summary statistics. ldsc also computes LD Scores. A [Python3 port](https://github.com/belowlab/ldsc) is available.
-
+  
 **Raw data based:**
 
 - [GCTA](https://yanglab.westlake.edu.cn/software/gcta/) GCTA (Genome-wide Complex Trait Analysis) is a software package initially developed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for a complex trait.
@@ -25,17 +25,18 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [ACLR](https://github.com/arminschoech/ACLR) Autocorrelation LD regression: a tool to efficiently estimate the autocorrelation of latent effects in large genetic data sets. (WARNING Python 2.7 code)
 - [HAMSTA](https://github.com/tszfungc/hamsta) HAMSTA is a python package that estimate heritability explained by local ancestry using summary statistics from admixture mapping studies.
 - [MAGMA](https://cncr.nl/research/magma/) MAGMA: Generalized gene-set analysis of GWAS data. 
-
+- [MiXeR](https://github.com/precimed/mixer) Causal mixture model (MiXeR) is a tool designed to estimate the polygenic architecture of a single trait, including the total number of causal variants and the distribution of their effect sizes.
 
 ## Genetic correlation (LD score derivatives/extensions)
-
 
 - [HDL](https://github.com/zhenin/HDL) High-Definition Likelihood (HDL) is a likelihood-based method for estimating genetic correlation using GWAS summary statistics. Compared to LD Score regression (LDSC), It reduces the variance of a genetic correlation estimate by about 60%.
 
 ### Stratified/local genetic correlatons
 
 - [LAVA](https://github.com/josefin-werme/LAVA) LAVA (Local Analysis of [co]Variant Association) is a tool developed for local genetic correlation (rg) analysis.
-
+- [bivarite MiXeR](https://github.com/precimed/mixer) Bivariate causal mixture model (MiXeR) is a tool designed to estimate the degree of genetic overlap and shared causal variants between two traits.
+- [trivariate MiXeR](https://github.com/precimed/mix3r) Trivariate causal mixture model (MiXeR) is a tool designed to estimate the degree of genetic overlap and shared causal variants between three traits.
+  
 ### Ancestry aware Genetic correlations:
 
 - [s-ldxr](https://github.com/huwenboshi/s-ldxr) S-LDXR is a method to stratify squared trans-ethnic genetic correlation by genomic annotations from GWAS summary statistics.
