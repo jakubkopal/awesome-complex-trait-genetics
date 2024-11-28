@@ -22,7 +22,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [MAGMA](https://cncr.nl/research/magma/) MAGMA: Generalized gene-set analysis of GWAS data. 
 
 
-## Genetic correlation (LD score and derivatives)
+## Genetic correlation (LD score derivatives/extensions)
 
 
 - [HDL](https://github.com/zhenin/HDL) High-Definition Likelihood (HDL) is a likelihood-based method for estimating genetic correlation using GWAS summary statistics. Compared to LD Score regression (LDSC), It reduces the variance of a genetic correlation estimate by about 60%.
