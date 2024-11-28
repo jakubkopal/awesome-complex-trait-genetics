@@ -45,7 +45,7 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [GNA](https://github.com/GenomicNetworkAnalysis/GNA) GNA is an R package for performing network analysis of genetic overlap derived from GWAS summary statistics
 
 
-### two sample Mendelian randomisation
+### Two sample Mendelian Randomisation
 
 - [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) An R package for performing Mendelian randomization using GWAS summary data.
 
